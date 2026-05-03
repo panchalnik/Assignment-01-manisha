@@ -9,3 +9,8 @@ n1=n2
 n2=a
 print(f"The number after swapping is:{n1}")
 print(f"The number after swapping is:{n2}")
+
+
+# if you want space in between your output then u can give a blank print command that is print()
+# or u can add any special character in print command for example print("-------")
+# or can add any emoji by pressin window and dot key.
